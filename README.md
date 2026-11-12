@@ -1,2 +1,0 @@
-# target-num
-c program
